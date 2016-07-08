@@ -1,3 +1,5 @@
+`Prototyped`
+
 * A slack bot listens to your song request and adds them to the queue
 * A flask application plays the songs in youtube one after the other
 
